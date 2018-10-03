@@ -1,4 +1,4 @@
-# eye-gaze
+# eye-gaze ( a beautiful code)
 ## Repositiory for Eye Gaze Detection and Tracking
 
 We have implemented an Eye Gaze tracking system ( currently in Beta version ) using a series of algorithms. It computes the following :
